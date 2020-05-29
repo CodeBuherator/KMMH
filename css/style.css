@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'Architects Daughter';
-    src: url(/fonts/ArchitectsDaughter-Regular.ttf);
+    src: url(../fonts/ArchitectsDaughter-Regular.ttf);
   }
 html{
     width: 100%;
